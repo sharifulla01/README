@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharif Ulla</h1>
 <h3 align="center">I am Software Engineer | Data Science Enthusiast | Aspiring Machine Learning Expert</h3>
-<img align="right" src="https://miraculoussoft.com/wp-content/uploads/2022/03/best-PHP-Development-Services-new-york.gif" alt="welcome logo" width="400">
+<img align="right" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" />
 
 - 🌱 I’m currently learning **python Django Machine Learning Deep Learning**
 

@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharif Ulla</h1>
 <h3 align="center">I am Software Engineer | Data Science Enthusiast | Aspiring Machine Learning Expert</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharifulla01" alt="sharifulla01" /></a> </p>
-
 - 🌱 I’m currently learning **python Django Machine Learning Deep Learning**
 
 - 💬 Ask me about **Python java C++ Machine Learning**
